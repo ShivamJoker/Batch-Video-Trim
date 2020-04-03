@@ -1,0 +1,2 @@
+0:00 - Course Intro
+1:45 - Introduction to programming and C 
